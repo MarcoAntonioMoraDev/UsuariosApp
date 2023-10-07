@@ -1,0 +1,8 @@
+{
+  "UsuariosApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Angular CSharp Full Stack\\UsuariosApp\\UsuariosApp.Application",
+  "UsuariosApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Angular CSharp Full Stack\\UsuariosApp\\UsuariosApp.Domain",
+  "UsuariosApp.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Angular CSharp Full Stack\\UsuariosApp\\UsuariosApp.Infra.Data",
+  "UsuariosApp.Infra.Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Angular CSharp Full Stack\\UsuariosApp\\UsuariosApp.Infra.Messages",
+  "UsuariosApp.Infra.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Angular CSharp Full Stack\\UsuariosApp\\UsuariosApp.Infra.Security",
+  "UsuariosApp.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Angular CSharp Full Stack\\UsuariosApp\\UsuariosApp.Services"
+}

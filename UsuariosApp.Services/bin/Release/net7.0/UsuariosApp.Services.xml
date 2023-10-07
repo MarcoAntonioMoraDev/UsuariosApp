@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UsuariosApp.Services</name>
+    </assembly>
+    <members>
+        <member name="M:UsuariosApp.Services.Controllers.UsuariosController.Autenticar(UsuariosApp.Application.Dtos.AutenticarRequestDto)">
+            <summary>
+            Serviço para autenticação de usuário e obtenção de TOKEN de acesso.
+            </summary>
+        </member>
+        <member name="M:UsuariosApp.Services.Controllers.UsuariosController.CriarConta(UsuariosApp.Application.Dtos.CriarContaRequestDto)">
+            <summary>
+            Serviço para criação de conta de acesso de usuário.
+            </summary>
+        </member>
+        <member name="T:UsuariosApp.Services.Extensions.CorsConfigExtension">
+            <summary>
+            Classe de extensão para configurarmos as permissões 
+            de acesso da API para outros sistemas (clientes)
+            </summary>
+        </member>
+        <member name="T:UsuariosApp.Services.Extensions.SwaggerExtension">
+            <summary>
+            Classe de extensão para configurarmos a documentação
+            da API gerada pela biblioteca Swagger
+            </summary>
+        </member>
+    </members>
+</doc>
